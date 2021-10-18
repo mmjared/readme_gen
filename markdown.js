@@ -38,7 +38,8 @@ ${response.description}
 
 - i hope this works
 - im building this project for class
-- im not a very descriptive person
+- Testing
+
 
 ##license
 
